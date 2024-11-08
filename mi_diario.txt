@@ -3,3 +3,4 @@ Dia 2: Hoy aprendisobre el comando git add y git commit.
 Dia 3: Estoy entendiendo como funcionan las ramas en Git.
 Dia 3: Estoy entendiendo como funcionan las ramas en git.
 Dia3: Estoy entendiendo como funcionan las ramas en Git.
+Dia 4: Practique haciendo git push para subir cambios a Github.
